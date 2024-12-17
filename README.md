@@ -1,7 +1,7 @@
 <h1>Olá, me chamo Marcel Moura da Luz Melo</h1>
 
 <p>Seja bem vindo ao meu GitHub</p><br>
-<div class="tenor-gif-embed" data-postid="11249423921160715390" data-share-method="host" data-aspect-ratio="1.33871" data-width="100%"><a href="https://tenor.com/view/hey-cat-waving-wave-paw-gif-11249423921160715390">Hey Cat GIF</a>from <a href="https://tenor.com/search/hey-gifs">Hey GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 <h2>Um pouco sobre mim...</h2>
 
@@ -18,7 +18,7 @@
 <section>
   <p>Atualmente meu foco está voltado para Front-End e Desenvolvimento Web. As ferramentas e tecnologias que venho estudadando ou já tenho algum conhecimento: </p>
 
-  <p><div class="tenor-gif-embed" data-postid="21308149" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/web-developer-mycrxn-javascript-php-css-react-wordpress-mongo-db-html-bootsrap-gif-21308149">Web Developer Mycrxn GIF</a>from <a href="https://tenor.com/search/web+developer-gifs">Web Developer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></p>
+  
 
   <h3>Tecnologias que estou estudando:</h3>
   <ul>
@@ -38,7 +38,7 @@
   <div>
     <a href="https://github.com/MMouralMelo">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?MMouraLMelo&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?MMouraLMelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?MMouraLMelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </div>
 
 </section>
@@ -48,4 +48,4 @@
 <a href="https://www.linkedin.com/in/mmouramelo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:marcelmouradaluzmelo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br><br>
 
-![Snake animation](https://github.com/MMouraLMelo/blob/output/github-contribution-grid-snake.svg)
+
