@@ -18,7 +18,7 @@
 <section>
   <p>Atualmente meu foco está voltado para Front-End e Desenvolvimento Web. As ferramentas e tecnologias que venho estudadando ou já tenho algum conhecimento: </p>
 
-  <div class="tenor-gif-embed" data-postid="21308149" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/web-developer-mycrxn-javascript-php-css-react-wordpress-mongo-  db-html-bootsrap-gif-21308149">Web Developer Mycrxn GIF</a>from <a href="https://tenor.com/search/web+developer-gifs">Web Developer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <div class="tenor-gif-embed" data-postid="21308149" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/web-developer-mycrxn-javascript-php-css-react-wordpress-mongo-db-html-bootsrap-gif-21308149">Web Developer Mycrxn GIF</a>from <a href="https://tenor.com/search/web+developer-gifs">Web Developer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
   <h3>Tecnologias que estou estudando:</h3>
   <ul>
