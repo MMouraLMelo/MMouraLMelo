@@ -1,5 +1,7 @@
 <h1>Olá, me chamo Marcel Moura da Luz Melo</h1>
 
+![Snake animation](https://github.com/MMouraLMelo/MMouraLMelo/blob/output/github-contribution-grid-snake.svg)
+
 <p>Seja bem vindo ao meu GitHub</p><br>
 
 
