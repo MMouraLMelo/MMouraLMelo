@@ -1,4 +1,4 @@
-<h1>Olá, me chamo Marcel</h1>
+<h1>Olá, me chamo Marcel Moura da Luz Melo</h1>
 
 <p>Seja bem vindo ao meu GitHub</p><br>
 <div class="tenor-gif-embed" data-postid="11249423921160715390" data-share-method="host" data-aspect-ratio="1.33871" data-width="100%"><a href="https://tenor.com/view/hey-cat-waving-wave-paw-gif-11249423921160715390">Hey Cat GIF</a>from <a href="https://tenor.com/search/hey-gifs">Hey GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
@@ -48,4 +48,4 @@
 <a href="https://www.linkedin.com/in/mmouramelo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:marcelmouradaluzmelo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br><br>
 
-![Snake animation](https://github.com/MMouraLMelo/MMouraLMelo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MMouraLMelo/blob/output/github-contribution-grid-snake.svg)
