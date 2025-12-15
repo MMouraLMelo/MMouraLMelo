@@ -24,10 +24,10 @@
 
   <h3>Tecnologias que estou estudando:</h3>
   <ul>
-     <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> </li> <p>| HTML5</p>
-     <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" widht="40" height="40"/> </li> <p>| CSS3</p>
-    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" widht="40" height="40"/> </li> <p>| JavaScript</p>
-    <li><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg' width="40" height=""40/> </li> <p>| Kotlin</p>
+     <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> </li> 
+     <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" widht="40" height="40"/> </li> 
+    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" widht="40" height="40"/> </li> 
+    <li><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg' width="40" height=""40/> </li> 
     
   </ul>
 
