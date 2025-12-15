@@ -28,7 +28,7 @@
      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" widht="40" height="40"/></li> 
     <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" widht="40" height="40"/></li>
     <li><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg' width="40" height=""40/></li>
-    
+    <li><img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/springboot/springboot-original.svg' width="40" height=""40/></li>
   </ul>
 
   <h3>Tenho algum conhecimento em: <h3>
