@@ -38,7 +38,7 @@
   <h3>Ferramentas que utilizo:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" widht="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" widht="40" height="40"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androistudio/androidstudio-original-wordmark.svg" widht="40" height="40"/>
+  
  
 
 </section>
