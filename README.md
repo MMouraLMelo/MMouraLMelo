@@ -10,7 +10,7 @@
 <section>
   <p>Sou formado Analista de Sistemas e pós graduado em Adminstração de Banco de Dados e Análise e Desenvolvimento de Sistemas.</p>
 
-  <p>Trabalhei como Técnico de Informática e no momento venho prestando serviços para mim. Sou apaixonado por tecnologia e a criação de soluções para pessoas e gosto de participar de processos colaborativos.       Acredito que tenho grandes competências e quero desenvolver outras, por isso, busco ingressar em um ambiente dinâmico que incentive o aprendizado e a qualidade. </p>
+  <p>Atualmente estou trabalhando como técnico de suporte. Sou apaixonado por tecnologia e a criação de soluções para pessoas e gosto de participar de processos colaborativos.       Acredito que tenho grandes competências e quero desenvolver outras, por isso, busco ingressar em um ambiente dinâmico que incentive o aprendizado e a qualidade. </p>
 
   <p>Moro em Santa Isabel - SP</p>
 </section>
